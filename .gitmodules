@@ -1,0 +1,3 @@
+[submodule "mergestat"]
+	path = mergestat
+	url = https://github.com/mergestat/mergestat.git
