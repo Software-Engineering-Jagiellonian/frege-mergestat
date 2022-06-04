@@ -235,5 +235,3 @@ BODY: {
     "query": "\"SELECT author_name, count(*) FROM commits('https://github.com/mergestat/mergestat') WHERE parents < 2 GROUP BY author_name ORDER BY count(*) DESC\" -f json"
 }
 ```
-
-
